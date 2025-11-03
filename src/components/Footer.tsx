@@ -49,7 +49,7 @@ const Footer = () => {
             <div className="space-y-2 text-primary-foreground/80">
               <p>📍 Akçaabat, Trabzon</p>
               <p>📞 0546 136 47 81</p>
-              <p>📧 info@alokofte.com</p>
+              <p>📧 alokofte1@gmail.com</p>
             </div>
           </div>
 
