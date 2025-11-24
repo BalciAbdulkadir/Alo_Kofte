@@ -1,5 +1,5 @@
 import { Button } from "@/components/ui/button";
-import heroImage from "/src/assets/Projeresimkofte.png";
+import heroImage from "/src/assets/Projeresimkofte.webp";
 
 const HeroSection = () => {
   const openWhatsApp = () => {

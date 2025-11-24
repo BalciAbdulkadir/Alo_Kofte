@@ -1,11 +1,11 @@
 import { Button } from "@/components/ui/button";
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card";
-import tarihceResmi from "@/assets/koftetarihce.jpg";
-import akcaabatKofteResim from "@/assets/menuakc.jpg";
-import sebzeliKofteResim from "@/assets/menusebze.jpg";
-import tereyagiResim from "@/assets/tereyagi.jpg";
-import misirUnuResim from "@/assets/misirunu.jpg";
-import kuymakPeyniriResim from "@/assets/peynir.jpg";
+import tarihceResmi from "@/assets/koftetarihce.webp";
+import akcaabatKofteResim from "@/assets/menuakc.webp";
+import sebzeliKofteResim from "@/assets/menusebze.webp";
+import tereyagiResim from "@/assets/tereyagi.webp";
+import misirUnuResim from "@/assets/misirunu.webp";
+import kuymakPeyniriResim from "@/assets/peynir.webp";
 
 const MenuSection = () => {
   const openWhatsApp = (product: string) => {
