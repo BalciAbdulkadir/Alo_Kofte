@@ -1,0 +1,28 @@
+# --- Olmazsa Olmazlar (Çöpler) ---
+node_modules/
+.DS_Store
+Thumbs.db
+
+# --- Build Çıktıları (Canlıya gidenler repoda işi yok) ---
+dist/
+dist-ssr/
+*.local
+
+# --- Loglar ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Editör Ayarları ---
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# --- Çevresel Değişkenler (Şifrelerini koru) ---
+.env
+.env.*.local
