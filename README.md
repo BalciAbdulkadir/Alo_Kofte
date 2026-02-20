@@ -23,3 +23,7 @@ Bu proje, modern bir "full-stack" yaklaşımla geliştirilmiştir:
 * **API Entegrasyonu:** **WhatsApp API**
     * Tamamlanan siparişlerin doğrudan işletmeye iletilmesi için entegre edildi.
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
